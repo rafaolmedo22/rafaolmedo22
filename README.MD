@@ -1,8 +1,8 @@
-<h1 align="center" style="color:pink;font-family:Sans-Serif;">Welcome to my profile!</h1>
+<h1 align="left" style="color:pink;font-family:Sans-Serif;">Welcome to my profile!</h1>
 
-<h3 align="center" style="color:pink;font-family:Sans-Serif;">I am very happy to have you here and share my work with you.</h3>
+<h3 align="left" style="color:pink;font-family:Sans-Serif;">I am very happy to have you here and share my work with you.</h3>
 
-<h3 align="center" style="color:pink;font-family:Sans-Serif;">This is where I showcase my projects, experiments, and contributions to the development community.</h3>
+<h3 align="left" style="color:pink;font-family:Sans-Serif;">This is where I showcase my projects, experiments, and contributions to the development community.</h3>
 
 </p>
 <h3 align="center" style="color:pink;font-family:Sans-Serif;">Languages and Tools:</h3>
